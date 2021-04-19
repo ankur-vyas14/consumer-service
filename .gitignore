@@ -1,0 +1,10 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+__pycache__/
+.idea/
+/logs/
+/venv/
+/.venv/
+/env/
+.vscode/launch.json
+.vscode/settings.json
+data/logs
